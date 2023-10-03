@@ -5,8 +5,10 @@
     "repository": "git@github.com:beinnovative/binnovative-react-native-starter-kit.git",
     "author": "Binova Gautam <binova1245@gmail.com>",
     "license": "MIT",
-    "type" : "module",  
     "dependencies": {
         "inquirer": "^9.2.11"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.3"
     }
 }
