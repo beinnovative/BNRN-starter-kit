@@ -1,0 +1,5 @@
+export {default as TopSectionFrag} from './TopSectionFrag'
+export {default as CategorySlideFrag} from './CategorySlideFrag'
+export {default as HospitalsSlideFrag} from './HospitalsSlideFrag'
+export {default as HospitalDetailFrag} from './HospitalDetailFrag'
+export {default as HospitalsListFrag} from './HospitalsListFrag'
